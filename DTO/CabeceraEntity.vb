@@ -1,0 +1,75 @@
+﻿Public Class CabeceraEntity
+    Public Property Id As String
+    Public Property Tipo As String
+    Public Property ITipEmi As String
+    Public Property ITiDE As String
+    Public Property DNumTim As String
+    Public Property DEst As String
+    Public Property DPuntExp As String
+    Public Property DNumDoc As String
+    Public Property DFeEmiDE As String
+    Public Property ITipTra As String
+    Public Property ITImp As String
+    Public Property CMoneOpe As String
+    Public Property DRucEm As String
+    Public Property DDVEmi As String
+    Public Property INatRec As String
+    Public Property ITiOpe As String
+    Public Property DRucRec As String
+    Public Property DDVRec As String
+    Public Property DNomRec As String
+    Public Property DDirRec As String
+    Public Property DTelRec As String
+    Public Property CPaisRec As String
+    Public Property DDesPaisRe As String
+    Public Property ICondOpe As String
+    Public Property ICOndCred As String
+    Public Property DPlazoCre As String
+    Public Property IIndPres As String
+    Public Property DSubExe As String
+    Public Property DSubExo As String
+    Public Property DSub5 As String
+    Public Property DSub10 As String
+    Public Property DTotOpe As String
+    Public Property DTotDesc As String
+    Public Property DTotDescGlotem As String
+    Public Property DocAsociadoNumero As String
+    Public Property DocAsociadoTipo As String
+    Public Property IMotEmi As String
+    Public Property DDesMotEmi As String
+    Public Property ITipDocAso As String
+    Public Property DCdCDERef As String
+    Public Property DFeIniT As Date
+    Public Property DCondTiCam As String
+    Public Property DTiCam As String
+    Public Property DEmailRec As String
+    Public Property DNumCasRec As String
+    Public Property ITiContRec As String
+    Public Property DDCondCred As String
+    Public Property INAtVen As String
+    Public Property ITipIDVen As String
+    Public Property DNumIDVen As String
+    Public Property DNomVen As String
+    Public Property DDirVen As String
+    Public Property DNumCasVen As String
+    Public Property CDepVen As String
+    Public Property CDisVen As String
+    Public Property CCiuVen As String
+    Public Property DDirProv As String
+    Public Property CDepProv As String
+    Public Property CDisProv As String
+    Public Property CCiuProv As String
+    Public Property ITipCons As String
+    Public Property DNumCons As String
+    Public Property DNumControl As String
+    Public Property ITipIDRec As String
+End Class
+
+Public Class DetalleEntity
+    Public Property DCodInt As String
+    Public Property DDesProSer As String
+    Public Property DCantProSer As String
+    Public Property DPUniProSer As String
+    Public Property DTasaIVA As String
+End Class
+
